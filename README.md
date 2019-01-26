@@ -1,1 +1,3 @@
 # gitskills
+ky gai ma ?
+
